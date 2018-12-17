@@ -4,6 +4,11 @@ h1
 }
 h2
 {
+ border-style: dashed;
+    border-width: 3px;
+    border-left-width: 10px;
+    border-right-width: 10px;
+    border-color: red;
  color: #a3a3c2;
 }
 h3 
