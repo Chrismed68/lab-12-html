@@ -1,0 +1,25 @@
+h1
+{
+ color: #a3a3c2;
+}
+h2
+{
+ color: #a3a3c2;
+}
+h3 
+{
+    font-size: 7em;
+    background-color: ##C0C0C0;
+    margin: 75px;
+    padding: 75px;
+}
+p
+{
+	background-color: tan;
+	color: red;
+
+}
+a
+{
+	font-weight:bold;
+}
